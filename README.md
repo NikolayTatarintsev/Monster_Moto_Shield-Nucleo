@@ -21,3 +21,8 @@
 ###### Параметры ШИМ (PWM),  отвечающие за период ШИМ и коэффициент заполнения, соответственно:
 Counter Period (16 bits value): 30000; Pulse (16 bits value): 7000
 
+######
+<div style="display: flex; justify-content: center;"> 
+<img src="https://github.com/NikolayTatarintsev/Monster_Moto_Shield-Nucleo/blob/main/akip_osc1.jpg" alt="Image 1" style="width: 600px; height: auto;">
+</div>
+<br>
