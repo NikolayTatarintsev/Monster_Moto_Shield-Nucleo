@@ -14,7 +14,13 @@
 </div>
 <br>
 
-###### Monster Moto Shield устанавливается на плату Nucleo-H743ZI2 в коннекторы  ST Zio (совместимы с Arduino). Таблица соединений приведена в файле NucleoH743ZI2-MMSh.pdf. 
+###### Monster Moto Shield устанавливается на плату Nucleo-H743ZI2 в коннекторы  ST Zio (совместимы с Arduino). Таблица соединений приведена в файле NuclH743ZI2_MonstMSh_tabl.pdf.
+[Таблица соединений:]( https://github.com/NikolayTatarintsev/Monster_Moto_Shield-Nucleo/blob/main/NuclH743ZI2_MonstMSh_tabl.pdf
+) NuclH743ZI2_MonstMSh_tabl.pdf
+</div>
+<br>
+
+
 ###### Для управления электродвигателем с помощью Monster Moto Shield требуется:
 - разрешить работу требуемого драйвера;
 - задать требуемое направление вращения электродвигателя: разрешить  работу на вращение по часовой стрелке CW и запретить работу против часовой стрелки CCW (для реверса соответственно наоборот);
