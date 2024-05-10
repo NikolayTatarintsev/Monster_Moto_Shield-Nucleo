@@ -1,7 +1,7 @@
 # Monster_Moto_Shield-Nucleo
 ###### Monster Moto Shield &amp; Nucleo H743ZI2
 ####     ОБОРУДОВАНИЕ
-###### 1. Nucleo-H743ZI2 (на базе микроконтроллера STM32H743ZIT6U , 32-разрядный 480 МГц ARM Cortex-M7F RISC микроконтроллер, 2 МБ флэш памяти, 1 МБ ОЗУ;
+###### 1. Nucleo-H743ZI2 (на базе микроконтроллера STM32H743ZIT6U , 32-разрядный, 480 МГц, ARM Cortex, RISC, 2 МБ флэш;
 [Документация:]( https://github.com/NikolayTatarintsev/Monster_Moto_Shield-Nucleo/blob/main/um2407-stm32h7-nucleo144-boards-mb1364-stmicroelectronics.pdf) um2407-stm32h7-nucleo144-boards-mb1364-stmicroelectronics.pdf
 </div>
 
