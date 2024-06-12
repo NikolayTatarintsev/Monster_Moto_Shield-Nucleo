@@ -10,7 +10,7 @@
 ###### На рисунке представлена Nucleo-H743ZI2 с установленным Monster Moto Shield, схематично показано подключение электродвигателя (мотора) постоянного тока М и источника питания 12 VDC.
 
 <div style="display: flex; justify-content: center;">
- <img src="https://github.com/NikolayTatarintsev/Monster_Moto_Shield-Nucleo/blob/main/MMSh_Nucleo_motor.jpg" alt="Image 1" style="width: 600px; height: auto;">
+ <img src="https://github.com/NikolayTatarintsev/Monster_Moto_Shield-Nucleo/blob/main/MMSh_Nucleo_motor.jpg" alt="Image 1" style="width: 650px; height: auto;">
 </div>
 <br>
 
@@ -33,8 +33,8 @@
 ###### Параметры ШИМ (PWM),  отвечающие за период ШИМ и коэффициент заполнения, соответственно:
 Counter Period (16 bits value): 30000; Pulse (16 bits value): 7000
 
-######
 <div style="display: flex; justify-content: center;"> 
-<img src="https://github.com/NikolayTatarintsev/Monster_Moto_Shield-Nucleo/blob/main/akip_osc1.jpg" alt="Image 1" style="width: 600px; height: auto;">
+<img src="https://github.com/NikolayTatarintsev/Monster_Moto_Shield-Nucleo/blob/main/Akip_osc2.jpg" alt="Image 1" style="width: 650px; height: auto;">
 </div>
 <br>
+
