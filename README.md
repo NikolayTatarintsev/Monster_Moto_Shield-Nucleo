@@ -34,7 +34,7 @@
 Counter Period (16 bits value): 30000; Pulse (16 bits value): 7000
 
 <div style="display: flex; justify-content: center;"> 
-<img src="https://github.com/NikolayTatarintsev/Monster_Moto_Shield-Nucleo/blob/main/Akip_osc2.jpg" alt="Image 1" style="width: 650px; height: auto;">
+<img src="https://github.com/NikolayTatarintsev/Monster_Moto_Shield-Nucleo/blob/main/Akip_osc2_2.jpg" alt="Image 1" style="width: 650px; height: auto;">
 </div>
 <br>
 
